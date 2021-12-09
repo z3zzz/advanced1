@@ -1,4 +1,6 @@
-# 도서관 대출 서비스
+# This is Forked Project from https://yeardream-gitlab.elice.io/seokjun/flask_project_sample
+
+## 도서관 대출 서비스
 Flask와 JQuery, tailwind CSS, MySQL을 이용하여 만든 도서관 샘플 프로젝트입니다.  
 
 
